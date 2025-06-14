@@ -4,7 +4,7 @@
 <div align="center">
 
 
-# A.S.M.R #(Article Sentiment Map Research)
+# A.S.M.R (Article Sentiment Map Research)
 
 <em>AI 기반 뉴스 분석 및 지리정보 시각화 플랫폼</em>
 
