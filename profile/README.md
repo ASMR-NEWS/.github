@@ -4,8 +4,7 @@
 <div align="center">
 
 
-# A.S.M.R
-(Article Sentiment Map Research)
+# A.S.M.R (Article Sentiment Map Research)
 
 <em>AI 기반 뉴스 분석 및 지리정보 시각화 플랫폼</em>
 
@@ -36,7 +35,7 @@
 
 ## Overview
 
-**ASMR (AI-based Sentiment-aware Map & Retrieval)**는 뉴스 검색, 감성 분석, 요약 및 위치 기반 시각화를 통해 사용자가 지역 기반의 뉴스 정보를 풍부하게 이해할 수 있도록 돕는 통합 플랫폼입니다.
+ASMR (Article Sentiment Map Research)는 뉴스 검색, 감성 분석, 요약 및 위치 기반 시각화를 통해 사용자가 지역 기반의 뉴스 정보를 풍부하게 이해할 수 있도록 돕는 통합 플랫폼입니다.
 
 **Key Features**
 
