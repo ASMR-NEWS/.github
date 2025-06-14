@@ -6,7 +6,7 @@
 
 # A.S.M.R (Article Sentiment Map Research)
 
-<em>AI 기반 뉴스 분석 및 지리정보 시각화 플랫폼</em>
+<em style="font-size: 1.2em;">AI 기반 뉴스 분석 및 지리정보 시각화 플랫폼</em>
 
 <!-- BADGES -->
 <img src="https://img.shields.io/github/last-commit/leegitae00/Search_FE?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
